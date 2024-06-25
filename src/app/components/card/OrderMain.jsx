@@ -1,14 +1,15 @@
-import React from 'react'
-import OrderDetails from './OrderDetails'
-import OrderSubdetails from './OrderSubdetails'
+import React from 'react'; // Importing React library
+import OrderDetails from './OrderDetails'; // Importing OrderDetails component from local file
+import OrderSubdetails from './OrderSubdetails'; // Importing OrderSubdetails component from local file
 
+// OrderMain component definition
 const OrderMain = () => {
     return (
         <div className='w-full mb-8 relative'>
-            <OrderDetails />
-            <OrderSubdetails />
+            <OrderDetails /> {/* Renders OrderDetails component */}
+            <OrderSubdetails /> {/* Renders OrderSubdetails component */}
         </div>
-    )
+    );
 }
 
-export default OrderMain
+export default OrderMain; // Exports OrderMain component as default
