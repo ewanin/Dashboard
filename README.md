@@ -1,3 +1,25 @@
+Project Link: https://clone-dashboard.netlify.app/
+
+Desktop View
+
+![image](https://github.com/ewanin/Dashboard/assets/70193546/38894ff5-a581-4326-b2bd-e86018db920d)
+![image](https://github.com/ewanin/Dashboard/assets/70193546/fcb3f603-524f-47af-ae88-76b2ba85e756)
+
+
+Mobile View
+
+![image](https://github.com/ewanin/Dashboard/assets/70193546/02848be9-ef8b-4970-9386-9ea086fac268)
+![image](https://github.com/ewanin/Dashboard/assets/70193546/d6a837d2-15ec-4cbb-be9b-646d4eaf5bff)
+![image](https://github.com/ewanin/Dashboard/assets/70193546/7e0e9d85-cb8f-45ed-bd5b-b231bc11925f)
+![image](https://github.com/ewanin/Dashboard/assets/70193546/21adde6e-601c-4028-92d0-a8d78050fb5a)
+![image](https://github.com/ewanin/Dashboard/assets/70193546/c5eb409b-7177-4e43-a716-88d44a93e18c)
+
+
+Steps:
+1. Clone into VS Code
+2. npm i
+3. npm run dev
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
